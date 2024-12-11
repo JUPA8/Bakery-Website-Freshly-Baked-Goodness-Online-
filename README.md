@@ -1,6 +1,8 @@
 # Bakery-Website-Freshly-Baked-Goodness-Online-Front-end
 Bakery is a beautifully designed, fully responsive website template for showcasing bakery products, including bread, pastries, cakes, and confectioneries. This project is built with modern web technologies and offers a delightful browsing experience with intuitive navigation and appealing design.
 
+Link: https://www.engage.veented.com/bakery/
+
 📋 Project Overview
 This project is a responsive bakery website showcasing bakery products and services. It is ideal for small businesses, cafes, and confectionery shops looking for an attractive online presence. The design focuses on product presentation, special offers, and direct customer engagement through contact forms and newsletter subscriptions.
 
@@ -35,5 +37,7 @@ Customize the CSS styles in the /css/style.css file.
 Add Products:
 
 Update the product list in the HTML files.
+
+
 
 
